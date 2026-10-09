@@ -1,4 +1,4 @@
-# Task 6: Host a Static Website with GitHub Pages
+# Task 5: Host a Static Website with GitHub Pages
 
 DevOps Internship, Elevate Labs
 
