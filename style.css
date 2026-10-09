@@ -1,3 +1,9 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
 header {
     background-color: #2457d6;
     color: white;
